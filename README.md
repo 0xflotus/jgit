@@ -65,7 +65,7 @@ Tests
 Warnings/Caveats
 ----------------
 
-- Native smbolic links are supported, provided the file system supports
+- Native symbolic links are supported, provided the file system supports
   them. For Windows you must have Windows Vista/Windows 2008 or newer,
   use a non-administrator account and have the SeCreateSymbolicLinkPrivilege.
 
